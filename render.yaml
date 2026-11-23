@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: ksstore
+    runtime: static
+    staticPublishPath: .
